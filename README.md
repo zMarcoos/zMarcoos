@@ -65,8 +65,10 @@
 
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=zmarcoos&show_icons=true&count_private=true&hide_border=true" align="flex-start" style="width: 50%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmarcoos&hide_border=true&layout=compact" align="flex-end" style="width: 50%" />  
+<div class="flex-container" style="display: flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=zmarcoos&show_icons=true&count_private=true&hide_border=true" style="flex: 1; margin-right: 20px;" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmarcoos&hide_border=true&layout=compact" />  
+</div>
 <br/>
 
  ![Snake animation](https://github.com/zMarcoos/zMarcoos/blob/output/github-contribution-grid-snake.svg)
