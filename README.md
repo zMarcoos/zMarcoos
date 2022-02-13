@@ -66,8 +66,8 @@
 
 ## Github Stats
 <div class="flex-container" style="display: flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=zmarcoos&show_icons=true&count_private=true&hide_border=true" style="flex: 1; margin-right: 20px;" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmarcoos&hide_border=true&layout=compact" />  
+<img src="https://github-readme-stats.vercel.app/api?username=zmarcoos&show_icons=true&count_private=true&hide_border=true" style="flex: 1; margin-right: 20px; width: 25%;" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmarcoos&hide_border=true&layout=compact" style="width: 25%;" />  
 </div>
 <br/>
 
