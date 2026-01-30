@@ -53,7 +53,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://wakatime.com/@fad43a16-7480-400c-a3b4-0e799f1ab2a6">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fad43a16-7480-400c-a3b4-0e799f1ab2a6&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="WakaTime Stats" />
+  <h3 align="center">⏱️ Weekly Coding Activity</h3>
+  
+  <a href="https://wakatime.com/@zmarcoos">
+    <img src="https://github.com/zMarcoos/zMarcoos/blob/main/wakatime/stats.svg" alt="WakaTime Stats" />
   </a>
 </div>
