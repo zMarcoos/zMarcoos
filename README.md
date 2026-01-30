@@ -1,6 +1,6 @@
 <div align="center">
 
-# Marcos Gregory
+# Marcos Grégory Rodrigues Marques
 ### Computer Scientist | Software Engineer
 
 <br/>
@@ -9,7 +9,7 @@
   <em>
    Architecting scalable solutions with a focus on <b>Performance</b>, <b>Algorithm Efficiency</b>, and <b>Data-Driven Insights</b>.
    <br/>
-   Transforming complex problems into elegant code using <b>Java</b>, <b>Go</b>, and <b>Kotlin</b>.
+   <b>Driven by engineering principles, not syntax.</b> Building scalable, high-performance systems using the best tool for the job.
   </em>
 </p>
 
