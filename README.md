@@ -56,6 +56,6 @@
   <h3 align="center">⏱️ Weekly Coding Activity</h3>
   
   <a href="https://wakatime.com/@zmarcoos">
-    <img src="https://github.com/zMarcoos/zMarcoos/blob/main/wakatime/stats.svg" alt="WakaTime Stats" />
+    <img src="https://github.com/zMarcoos/zMarcoos/blob/main/wakatime/stats.svg?v=20260130" alt="WakaTime Stats" />
   </a>
 </div>
