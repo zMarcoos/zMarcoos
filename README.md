@@ -32,30 +32,3 @@
     <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres,docker,git,linux&theme=dark" />
   </a>
 </p>
-
-<br/>
-<br/>
-
-<h3>📊 Engineering Metrics</h3>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmarcoos&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Marcos's GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmarcoos&layout=compact&hide_progress=false&langs_count=6&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3 align="center">⏱️ Weekly Coding Activity</h3>
-  
-  <a href="https://wakatime.com/@zmarcoos">
-    <img src="https://github.com/zMarcoos/zMarcoos/blob/main/wakatime/stats.svg?v=20260130" alt="WakaTime Stats" />
-  </a>
-</div>
