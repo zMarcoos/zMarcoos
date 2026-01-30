@@ -40,19 +40,20 @@
 
 <br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=zmarcoos&show_icons=true&locale=en&bg_color=00000000&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" alt="Marcos's GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmarcoos&layout=compact&hide_progress=false&langs_count=6&bg_color=00000000&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmarcoos&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Marcos's GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmarcoos&layout=compact&hide_progress=false&langs_count=6&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top Languages" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zmarcoos&layout=compact&bg_color=00000000&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" alt="WakaTime Stats" />
-</p>
+<br/>
 
+<div align="center">
+  <a href="https://wakatime.com/@zmarcoos">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zmarcoos&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="WakaTime Stats" />
+  </a>
 </div>
