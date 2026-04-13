@@ -20,7 +20,7 @@
     </g>
   <g transform="translate(0, 56) scale(1)">
       <text x="40" y="18" font-size="14" fill="#0284c7" font-family="Calibri" font-weight="bold">
-        This year, my most productive month was January
+        This year, my most productive month was April
       </text>
       <g transform="translate(40, 50)">
         <text x="444" y="-6" font-size="10" fill="#0284c7" font-family="Calibri">Jan</text>
@@ -329,7 +329,7 @@
 <rect x="492" y="12" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
 <rect x="492" y="24" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
 <rect x="492" y="36" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
-<rect x="492" y="48" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="1.00" stroke="#0284c7" stroke-width="0.5" />
+<rect x="492" y="48" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.27" stroke="#0284c7" stroke-width="0.5" />
 <rect x="492" y="60" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
 <rect x="492" y="72" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
 <rect x="504" y="0" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
@@ -401,8 +401,8 @@
 <rect x="612" y="36" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
 <rect x="612" y="48" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
 <rect x="612" y="60" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
-<rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
-<rect x="624" y="0" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.10" stroke="#0284c7" stroke-width="0.5" />
+<rect x="612" y="72" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="1.00" stroke="#0284c7" stroke-width="0.5" />
+<rect x="624" y="0" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.35" stroke="#0284c7" stroke-width="0.5" />
 
         <text x="491" y="98" font-size="10" fill="#0284c7" font-family="Calibri">Less</text>
         <rect x="521" y="90" width="10" height="10" rx="2" ry="2" fill="#0ea5e9" fill-opacity="0.1"/>
